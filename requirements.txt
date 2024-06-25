@@ -1,0 +1,12 @@
+#Instalar en CMD: pip install pdfkit
+pdfkit
+
+#Instalar en CMD: pip install jinja2
+jinja2
+
+#Instalar wkhtmltopdf Windows --> https://wkhtmltopdf.org/downloads.html
+wkhtmltopdf
+
+# Proporciona clases para manipular fechas y horas.
+datetime
+
